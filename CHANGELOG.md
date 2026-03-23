@@ -1,3 +1,13 @@
+## [Unreleased] ##
+
+### Added
+
+### Changed
+- `Ferrum::Browser` option `:pending_connection_errors` is set to false by default
+
+### Fixed
+
+
 ## [Unreleased](https://github.com/rubycdp/ferrum/compare/v0.17.1...main) ##
 
 ### Added
